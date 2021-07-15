@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -g
-PROGS = charptr intptr
+PROGS = charptr intptr cmdline string_to_int
 
 all: $(PROGS)
 
